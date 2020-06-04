@@ -11,13 +11,13 @@ Simple sh script to show &amp; write log to file with color
 ### Options:
 `-d` Show date
 
-`-r` Show string with red color
+`-r "STRING"` Show string with red color
 
-`-g` Show string with green color
+`-g "STRING"` Show string with green color
 
-`-y` Show string with yellow color
+`-y "STRING"` Show string with yellow color
 
-`-w` Show string with white color
+`-w "STRING"` Show string with white color
 
 ### Examples:
 ```
