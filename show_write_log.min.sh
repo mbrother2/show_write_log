@@ -39,5 +39,5 @@ _main(){
 _main -d -r " 1" -g " 2" -y " 3" -w " 7"
 # Output: [ 03/06/2020 14:12:14 ] 1 2 3 7
 
-_main -d -w " [" -r REMOVE -w "]" -w " Remove all disk space"
+_main -d -w " [" -r "REMOVE" -w "]" -w " Remove all disk space"
 # Output: [ 03/06/2020 14:12:14 ] [REMOVE] Remove all disk space
